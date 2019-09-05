@@ -29,14 +29,18 @@
             }
 
             .title {
-                font-size: 66px;
+                font-size: 77px;
+            }
+            .n_title {
+                font-size: 33px;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by BigStupid</div>
+                <div class="title"> Hello Laravel! </div>
+                <div calss="n_title">- by BigStupid</div>
             </div>
         </div>
     </body>
